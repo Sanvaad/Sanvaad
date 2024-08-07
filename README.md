@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sanvaad
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Sanvaad
+- 👀 I’m a frontend developer, transitioning to fullstack web3 developement
+- 🌱 I am an aspiring filmmaker and a book hoarder,
+- 💞️ Striving to get better at what i do 
 - 📫 How to reach me sanvaad003@gmail.com
 
 <!---
